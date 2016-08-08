@@ -1,0 +1,29 @@
+_repo: Murder-in-Any-Degree_12686
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Owen
+    alias: Johnson, Owen McMahon
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '4502'
+    url: http://www.gutenberg.org/2009/agents/4502
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Johnson
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Murder in any degree -- One hundred in the dark -- A comedy for wives
+  -- The lie -- Even threes -- A man of no imagination -- Larry Moore -- My wife's
+  wedding presents -- The surprises of the lottery.
+title: Murder in Any Degree
+url: http://www.gutenberg.org/ebooks/12686
